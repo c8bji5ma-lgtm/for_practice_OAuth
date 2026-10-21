@@ -70,4 +70,4 @@ gem 'devise'
 gem 'omniauth'
 gem 'omniauth-google-oauth2'
 gem 'omniauth-rails_csrf_protection'
-gem "json", "< 3.0"
+gem "json", "< 4.0"
